@@ -1599,6 +1599,10 @@ body {
 .cid-rTsobsGg81 .collapsed .navbar-collapse.show .navbar-nav .nav-item {
   clear: both;
 }
+.cid-rTsobsGg81 .collapsed .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+.cid-rTsobsGg81 .collapsed .navbar-collapse.show .navbar-nav .nav-item:last-child {
+  margin-bottom: 1rem;
+}
 .cid-rTsobsGg81 .collapsed .navbar-collapse.collapsing .navbar-buttons,
 .cid-rTsobsGg81 .collapsed .navbar-collapse.show .navbar-buttons {
   text-align: center;
@@ -1693,6 +1697,10 @@ body {
   .cid-rTsobsGg81 .navbar-collapse.show .navbar-nav .nav-item {
     clear: both;
   }
+  .cid-rTsobsGg81 .navbar-collapse.collapsing .navbar-nav .nav-item:last-child,
+  .cid-rTsobsGg81 .navbar-collapse.show .navbar-nav .nav-item:last-child {
+    margin-bottom: 1rem;
+  }
   .cid-rTsobsGg81 .navbar-collapse.collapsing .navbar-buttons,
   .cid-rTsobsGg81 .navbar-collapse.show .navbar-buttons {
     text-align: center;
@@ -1754,10 +1762,17 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-rTsobuz9XZ {
-  background-image: url("../../../assets/images/img-1777-2000x1333.jpg");
+  background-image: url("../../../assets/images/truth-g74a730ab0-1921-1920x1271.jpg");
 }
 .cid-rTsobuz9XZ H1 {
-  color: #ffffff;
+  color: #232323;
+}
+.cid-rTsobuz9XZ B {
+  color: #232323;
+}
+.cid-rTsobuz9XZ .mbr-text,
+.cid-rTsobuz9XZ .mbr-section-btn {
+  color: #232323;
 }
 .cid-rTSuH7INm2 {
   padding-top: 0px;
@@ -1811,8 +1826,20 @@ body {
   padding-bottom: 0px;
   background-color: #232323;
 }
+.cid-t792ZLM6xN {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-t792ZLM6xN .mbr-text,
+.cid-t792ZLM6xN blockquote {
+  color: #767676;
+}
+.cid-t792ZLM6xN .mbr-text {
+  text-align: center;
+}
 .cid-rTSDBo4HUZ {
-  padding-top: 60px;
+  padding-top: 30px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
@@ -1828,6 +1855,37 @@ body {
 }
 .cid-rTSDBo4HUZ .mbr-text {
   color: #232323;
+}
+.cid-t793ozd6nZ {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-t793ozd6nZ .mbr-text,
+.cid-t793ozd6nZ blockquote {
+  color: #767676;
+}
+.cid-t793ozd6nZ .mbr-text {
+  text-align: center;
+}
+.cid-t792xpD2O7 {
+  padding-top: 30px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-t792xpD2O7 .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-t792xpD2O7 .mbr-figure {
+    padding-top: 1rem;
+  }
+}
+.cid-t792xpD2O7 .mbr-text {
+  color: #767676;
+  text-align: left;
 }
 .cid-rTsobwaMRw {
   padding-top: 60px;
